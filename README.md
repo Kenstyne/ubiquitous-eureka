@@ -1,2 +1,2 @@
-# ubiquitous-eureka
+# ubiquitous-eureka.github.io
 ывыф
